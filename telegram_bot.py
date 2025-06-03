@@ -10,7 +10,7 @@ import youtube_dl
 import re
 
 
-TOKEN = "<telegram_bot_token>"
+TOKEN = "7552955066:AAEoPnh4mpqBbKP_szNCZ1HqA2SHSZW1S58"
 bot = telegram.Bot(TOKEN)
 
 # Answering to the /start command
